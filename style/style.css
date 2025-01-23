@@ -64,14 +64,14 @@ h2 {
     color: var(--color-grayish-purple);
 }
 
-.min {
+.minus {
     display: none;
 }
 
-.card .accordions.active .pls {
+.card .accordions.active .plus {
     display: none;
 }
 
-.card .accordions.active .min {
+.card .accordions.active .minus {
     display: block;
 }
